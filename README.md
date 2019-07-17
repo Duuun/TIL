@@ -15,6 +15,7 @@ My studying record :pencil:
 ### Ruby
 
 #### Array
+- compact
 - zip
 
 #### Rspec
