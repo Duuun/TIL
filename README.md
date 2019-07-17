@@ -1,9 +1,10 @@
 # TIL
-My study record :pencil:
+My studying record :pencil:
 
 ### Categories
 - Git
 - Ruby
+  - Array
   - Rails
     - Rspec
 
@@ -12,4 +13,9 @@ My study record :pencil:
 ### Git
 
 ### Ruby
+
+#### Array
+- zip
+
+#### Rspec
 - let and create
